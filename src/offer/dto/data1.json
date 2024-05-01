@@ -1,0 +1,47 @@
+{
+    "query": {
+        "pubid": "1",
+        "appid": 1,
+        "country": "",
+        "platform": "all"
+    },
+    "response": {
+        "currency_name": "Coins",
+        "offers_count": 2729,
+        "offers": [
+            {
+                "externalOfferId": "19524555",
+                "name": "MyGym - iOS",
+                "description": "Play and reach level 23 within 14 days.",
+                "requirements": "Play and reach level 23 within 14 days.",
+                "disclaimer": "This offer rewards within 24 hours. New users only.",
+                "offerUrlTemplate": "https://some.url",
+                "offer_url_easy": "https://some.url",
+                "payout": 10.675,
+                "payout_type": "cpe",
+                "amount": 8873,
+                "thumbnail": "https://some.url",
+                "thumbnail_220x124": "https://some.url",
+                "countries": [
+                    "NZ"
+                ],
+                "isDesktop": false,
+                "isAndroid": false,
+                "isIos": true,
+                "last_modified": 1645095666,
+                "preview_url": "https://some.url",
+                "package_id": "idnumbers",
+                "verticals": [
+                    {
+                        "vertical_id": "4",
+                        "vertical_name": "Lifestyle"
+                    },
+                    {
+                        "vertical_id": "11",
+                        "vertical_name": "Health"
+                    }
+                ]
+            }
+        ]
+    }
+}

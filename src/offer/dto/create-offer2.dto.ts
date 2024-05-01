@@ -46,10 +46,4 @@ export class OfferProvider2DTO {
     @IsString()
     icon: string
 
-    @IsNotEmpty()
-    @ValidateNested()
-    @Type(() => OfferOsDTO)
-    OS: OfferOsDTO;
-
-
 }
